@@ -1,16 +1,15 @@
-# weather_app
+# Weather App 🌦️
 
-A new Flutter project.
+A Flutter application that provides real-time weather updates and forecasts.
 
-## Getting Started
+## Features 🚀
 
-This project is a starting point for a Flutter application.
+- **Real-time Weather**: Fetch current weather conditions for your location.
+- **Forecast**: View weather predictions for upcoming days.
+- **Interactive UI**: Smooth and responsive user interface designed with Flutter widgets.
+- **Location Support**: Automatically detects your location or allows manual entry.
 
-A few resources to get you started if this is your first Flutter project:
+## Demo 🛠️
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+1. App Demo
+![Weather App Demo](assets/demo_mobile.gif)
